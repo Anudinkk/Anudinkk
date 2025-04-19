@@ -1,4 +1,6 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EnJKlpITchJi4t35Ui40I54Tni6ZjBMs9A&s)
+<!-- ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EnJKlpITchJi4t35Ui40I54Tni6ZjBMs9A&s) -->
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EnJKlpITchJi4t35Ui40I54Tni6ZjBMs9A&s" width="900" align="center" alt="MasterHead">
+
 <h1 align="center">Hi 👋, I'm Anudin kk</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif"/>

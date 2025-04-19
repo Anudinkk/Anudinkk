@@ -1,39 +1,95 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Anudin kk</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://almablog-media.s3.ap-south-1.amazonaws.com/web3_developer_eaf4c16c2d.webp"/>
+<h1 align="center" style="color: yellow"> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> Hi there, I'm <strong>Praneeth</strong> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+  </h1>
+<h3 align="center" >Data Engineer @ Great learning</h3>
 
+<img align="right" alt='Coder GIF' height=250 width=300 src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anudinkk&label=Profile%20views&color=0e75b6&style=flat" alt="anudinkk" /> </p>
+### About me :writing_hand:
+- 🔭 Data Science Enthusiasist ...
+- 🌱 Love to Work on ML,DL,NLP ...
+- :man_scientist: Data scientist working professional.
+- :point_right: Also I'm a Mechanical Engineer ...
+- 💬 Ask me about Everything You want ...
+- ⚡ Fun fact: Dancer,Painter,Badminton Player...
 
-<p align="left"> <a href="https://twitter.com/anudinkk" target="blank"><img src="https://img.shields.io/twitter/follow/anudinkk?logo=twitter&style=for-the-badge" alt="anudinkk" /></a> </p>
+Check out my __Data science articles__ at :-[inblog](https://inblog.in/@PraneethKumar)<br>
+__Check out My Combnation of all my projects__:[Click here](https://mighty-springs-38077.herokuapp.com/)
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+### Connect me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anudinkk](https://github.com/Anudinkk)
-
-- 💬 Ask me about **Data Analysis, Data Visualisation**
-
-- 📫 How to reach me **anudinkk@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-website-one-plum.vercel.app/](https://portfolio-website-one-plum.vercel.app/)
-
-- ⚡ Fun fact **Music**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anudinkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anudinkk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anudin-kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anudin-kk" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/anudinkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anudinkk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/anudinkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anudinkk" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@anudinkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anudinkk" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/praneeth88/"><img alt="Linkdln" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-               badge&logo=linkedin&logoColor=white"/></a>
+    &emsp;
+</p>
+  
+
+## 🛠️ My Skills
+
+### 👉 Programming & query languages
+
+<p align="left"> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="Python" src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?logo=Python&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.sql.com/">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-%23777BB4.svg?logo=SQL&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.streamlit.net/">
+    <img alt="streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anudinkk&show_icons=true&locale=en&layout=compact" alt="anudinkk" /></p>
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.postgresql.com"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23327FC7.svg?style=flat&llogo=postgresql&logoColor=white"></a>
+ </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anudinkk&show_icons=true&locale=en" alt="anudinkk" /></p>
+ ### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anudinkk&" alt="anudinkk" /></p>
+<br/>
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=praneeth300&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Praneeth's Github Stats">
+
+</br>
+
+### Top Languages
+
+<p align="center">
+<a href = "https://github.com/praneeth300">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=praneeth300&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>

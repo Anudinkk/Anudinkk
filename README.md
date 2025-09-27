@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EnJKlpITchJi4t35Ui40I54Tni6ZjBMs9A&s) -->
 <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EnJKlpITchJi4t35Ui40I54Tni6ZjBMs9A&s" width="600" align="center" alt="MasterHead"> -->
-<img src="https://i.pinimg.com/736x/e0/26/77/e02677625d9aad62e180f434d7fbd1b5.jpg" width="1200" height="280" align="center" alt="MasterHead">
+<img src="https://github.com/Anudinkk/Anudinkk/blob/main/1.png" width="1200" height="280" align="center" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Anudin kk</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>

@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **anudinkk@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-website-one-plum.vercel.app/](https://portfolio-website-one-plum.vercel.app/)
+- 📄 Know about my experiences [https://anudinkk.github.io/portfolio-website/](https://anudinkk.github.io/portfolio-website/)
 
 - ⚡ Fun fact **Music**
 

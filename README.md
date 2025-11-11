@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/anudinkk" target="blank"><img src="https://img.shields.io/twitter/follow/anudinkk?logo=twitter&style=for-the-badge" alt="anudinkk" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m completed learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anudinkk](https://github.com/Anudinkk)
 

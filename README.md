@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Anudin kk</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif"/>
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif"/> -->
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/0d2fd68f-2b98-4962-be45-753e92117947" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudinkk&label=Profile%20views&color=0e75b6&style=flat" alt="anudinkk" /> </p>
